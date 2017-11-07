@@ -1,7 +1,7 @@
 /* 
  * tsh - A tiny shell program with job control
  * 
- * 201302384 김진수 
+ *실습1  201302384 김진수 
  */
 #include <stdio.h>
 #include <stdlib.h>
